@@ -1,6 +1,6 @@
 # Lizenz
 
-© 2026 Inhaberin bzw. Inhaber des GitHub-Kontos „bildungshexe“. Alle Rechte vorbehalten.
+© 2026 Elke Hirt. Alle Rechte vorbehalten.
 
 Dieses Programm (Lehrerplaner, Bewertungstool, Vertretungen, Hilfe) ist urheberrechtlich geschützt.
 Kopieren, Verändern, Weitergeben und Nutzen sind nur mit ausdrücklicher schriftlicher Erlaubnis gestattet.
