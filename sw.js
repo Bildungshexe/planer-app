@@ -1,6 +1,6 @@
 /* Offline-Betrieb: zuerst aus dem Netz (immer die neueste Version), sonst aus dem Zwischenspeicher.
    Es werden nur die Programmdateien zwischengespeichert, nie Noten oder Planerdaten. */
-var CACHE = 'lehrerplaner-v58';
+var CACHE = 'lehrerplaner-v59';
 var FILES = ['./', 'index.html', 'bewertung.html', 'vertretung.html', 'hilfe.html', 'pdfjs/laden.mjs', 'pdfjs/pdf.min.mjs', 'pdfjs/pdf.worker.min.mjs', 'manifest.webmanifest', 'icon-180.png', 'icon-512.png'];
 
 self.addEventListener('install', function (e) {
