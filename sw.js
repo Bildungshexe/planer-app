@@ -1,7 +1,7 @@
 /* Offline-Betrieb: zuerst aus dem Netz (immer die neueste Version), sonst aus dem Zwischenspeicher.
    Es werden nur die Programmdateien zwischengespeichert, nie Noten oder Planerdaten. */
-var CACHE = 'lehrerplaner-v73';
-var FILES = ['./', 'index.html', 'bewertung.html', 'vertretung.html', 'hilfe.html', 'pdfjs/laden.mjs', 'pdfjs/pdf.min.mjs', 'pdfjs/pdf.worker.min.mjs', 'manifest.webmanifest', 'icon-180.png', 'icon-512.png'];
+var CACHE = 'lehrerplaner-v80';
+var FILES = ['./', 'index.html', 'bewertung.html', 'vertretung.html', 'hilfe.html', 'handbuch.html', 'admin.html', 'pdfjs/laden.mjs', 'pdfjs/pdf.min.mjs', 'pdfjs/pdf.worker.min.mjs', 'manifest.webmanifest', 'icon-180.png', 'icon-512.png'];
 
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(FILES); }).then(function () { return self.skipWaiting(); }));
