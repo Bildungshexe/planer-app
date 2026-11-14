@@ -2,7 +2,7 @@
 
 © 2026 Elke Hirt. Alle Rechte vorbehalten.
 
-Dieses Programm (Lehrerplaner, Bewertungstool, Vertretungen, Hilfe) ist urheberrechtlich geschützt.
+Dieses Programm (Klio, früher Lehrerplaner, Bewertungstool, Vertretungen, Hilfe) ist urheberrechtlich geschützt.
 Kopieren, Verändern, Weitergeben und Nutzen sind nur mit ausdrücklicher schriftlicher Erlaubnis gestattet.
 
 Enthaltene fremde Bibliotheken behalten ihre eigenen Lizenzen:
